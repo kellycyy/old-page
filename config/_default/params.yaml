@@ -8,7 +8,7 @@ appearance:
   # mode: dark
   # color: "own"
   mode: system
-  color: emerald
+  color: "own"
 # SEO
 marketing:
   seo:
