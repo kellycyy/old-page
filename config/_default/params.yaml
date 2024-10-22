@@ -5,9 +5,10 @@
 
 # Appearance
 appearance:
-  mode: dark
-  color: "own"
-
+  # mode: dark
+  # color: "own"
+  mode: system
+  color: blue
 # SEO
 marketing:
   seo:
