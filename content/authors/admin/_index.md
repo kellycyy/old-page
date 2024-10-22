@@ -75,7 +75,7 @@ education:
   - area: BSc Decision Analytics (Stat+Comp. Sci.) & Psychology
     institution: University of Hong Kong
     date_start: 2017-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-30
     # summary: |
     #   GPA: 3.4/4.0
       
