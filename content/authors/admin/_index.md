@@ -183,4 +183,4 @@ education:
 
 ## About Me
 
-Hello! I’m a final-year master’s student in Computational Linguistics (NLP) at the University of Washington, advised by Yejin Choi and Tim Althoff. My research focuses on the intersection of NLP and humans. Broadly, I’m intrigued by how humans understand and think during decision-making, and how technology can help improve those decisions. My goal is to build and enhance empathetic, moral, and culturally sensitive AI, with a current focus on novel data collection methods from humans for models alignment and evaluations.
+Hello! I’m a final-year master’s student in Computational Linguistics (NLP) at the University of Washington, advised by Yejin Choi and Tim Althoff. My research focuses on the intersection of NLP and humans. Broadly, I’m intrigued by how humans understand and think during decision-making, and how technology can help improve those decisions. My goal is to build and enhance empathetic, moral, and culturally sensitive AI, with a current focus on novel data collection methods from humans and model evaluations for model alignment.
