@@ -183,5 +183,4 @@ education:
 
 ## About Me
 
-Hello! I'm a final year master student in Computational Linguistics (NLP) at University of Washington, advised by Yejin Choi and Tim Althoff. My research area is NLP and computational social science -- More speci is to understand how humans make decisions and help us to make better decisions. 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I’m a final-year master’s student in Computational Linguistics (NLP) at the University of Washington, advised by Yejin Choi and Tim Althoff. My research focuses on the intersection of NLP and humans. Broadly, I’m intrigued by how humans understand and think during decision-making, and how technology can help improve those decisions. My goal is to build and enhance empathetic, moral, and culturally sensitive AI, with a current focus on novel data collection methods from humans for models alignment and evaluations.
